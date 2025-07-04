@@ -1,4 +1,4 @@
-# POWER-KI AI-DOCS
+# POWER-KI AI-GPT-DOCS
 
 This repository contains useful documents for training Transformers (GPT) in POWER-KI programming language:
 * <a href="https://github.com/POWER-KI/AI-Docs/blob/main/01X-PWK-GUIDA-EN-01.txt">General concept </a> 
